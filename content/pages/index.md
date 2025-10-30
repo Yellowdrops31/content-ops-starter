@@ -7,6 +7,9 @@ sections:
       text: Inteligentne ISO dla nowoczesnych firm.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >+
 
