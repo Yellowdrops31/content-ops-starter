@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: FUCK PUTIN
+      text: Inteligentne ISO dla nowoczesnych firm.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
