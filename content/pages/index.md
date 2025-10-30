@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Inteligentne ISO dla nowoczesnych firm.
-      color: text-dark
+      color: text-primary
       type: TitleBlock
       styles:
         self:
